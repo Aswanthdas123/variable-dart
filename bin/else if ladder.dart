@@ -20,7 +20,7 @@ void main(){
 
   }
   else if(mark>=40){
-    print("veryb= low");
+    print("very low");
 
   }
   else{

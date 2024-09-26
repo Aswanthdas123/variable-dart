@@ -2,7 +2,7 @@ void main(){
   String name="aswanth";
   print("my name is $name");
   name = "manu";
-  print("my bname is $name");
+  print("my name is $name");
   int age=22;
   print ("my age is $age");
   double mark=22.7;
