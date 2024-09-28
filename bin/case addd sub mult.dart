@@ -7,7 +7,7 @@ void main(){
   int c=20;
   switch("add"){
     case 1:
-      print("object")
+      print("object");
   }
   
 
