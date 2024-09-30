@@ -25,6 +25,14 @@ void main(){
   else{
     print("no");
   }
+  //set operations
+  var set5={2,3,5,6};
+  var set6={5,7,8,9};
+  print(set5.union(set6));
+  print(set5.intersection(set6));
+  print(set6.difference(set5));
+
+
 
 
 
