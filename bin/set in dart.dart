@@ -26,11 +26,21 @@ void main(){
     print("no");
   }
   //set operations
-  var set5={2,3,5,6};
+  var set5={2,3,5,6};//union,intersection,and difference in set.
   var set6={5,7,8,9};
   print(set5.union(set6));
   print(set5.intersection(set6));
   print(set6.difference(set5));
+
+  var set7={1,3,4,5,6,8};
+  var list1=set7.toList();
+  print(list1);
+  var list3={1,3,35,6};
+  var set8=list3.toSet();
+  print(set8);
+
+
+
 
 
 
